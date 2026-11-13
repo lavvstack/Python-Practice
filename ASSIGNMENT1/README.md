@@ -45,5 +45,3 @@ python task3.py
 python task4.py
 ```
 
-## Author
-Lavanya Singh
