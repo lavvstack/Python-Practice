@@ -67,7 +67,6 @@ ASSIGNMENT2/
 └── README.md
 ```
 
-## Author
-Lavanya Singh
+
 
 
